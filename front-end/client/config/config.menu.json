@@ -1,0 +1,17 @@
+{
+  "app": {
+    "options": {},
+    "menu": {
+      "data": [
+        {
+          "id": "THROUGHPUT_DASHBOARD",
+          "label": "THROUGHPUT_DASHBOARD",
+          "active": true,
+          "data": {
+            "path": "throughput-dashboard"
+          }
+        }
+      ]
+    }
+  }
+}

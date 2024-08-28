@@ -1,0 +1,18 @@
+{
+  "script":"throughput-dashboard/ThroughputDashboard",
+  "title":"THROUGHPUT_DASHBOARD",
+  "route":"throughput-dashboard",
+  "localePath": "locale/",
+  "menu": {
+    "id": "THROUGHPUT_DASHBOARD",
+    "data": {
+      "path": "throughput-dashboard"
+    }
+  },
+  "dependencies": {
+    "@eui/component":"0.10.x",
+    "@eui/lit-component":"0.12.x",
+    "@eui/app":"0.12.x"
+  },
+  "components": {}
+}

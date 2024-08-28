@@ -1,0 +1,245 @@
+:host {
+  display: block;
+}
+
+/* Line Chart Styling */
+.line-chart .line {
+  fill: none;
+  stroke: #242424;
+  stroke-width: 2;
+}
+
+.line-chart .line.hidden {
+  display: none;
+}
+
+.line-chart .line.color-data-1 {
+  stroke: #878787;
+}
+
+.line-chart .line.color-data-2 {
+  stroke: #976CF4;
+}
+
+.line-chart .line.color-data-3 {
+  stroke: #23969A;
+}
+
+.line-chart .line.color-data-4 {
+  stroke: #C86F6D;
+}
+
+.line-chart .line.color-data-5 {
+  stroke: #333333;
+}
+
+.line-chart .line.color-data-6 {
+  stroke: #B98327;
+}
+
+.line-chart .line.color-data-7 {
+  stroke: #8087AD;
+}
+
+.line-chart .line.color-data-8 {
+  stroke: #E75FA0;
+}
+
+.line-chart .line.color-data-9 {
+  stroke: #3E0DA9;
+}
+
+.line-chart .line.color-data-10 {
+  stroke: #9B3213;
+}
+
+.line-chart .line.color-data-11 {
+  stroke: #5B85D0;
+}
+
+.line-chart .line.color-data-12 {
+  stroke: #4D0C2B;
+}
+
+.line-chart .line.color-data-13 {
+  stroke: #D82177;
+}
+
+.line-chart .line.color-data-14 {
+  stroke: #0C3B35;
+}
+
+.line-chart .line.color-data-15 {
+  stroke: #7695B0;
+}
+
+.line-chart .line.color-data-16 {
+  stroke: #74132A;
+}
+
+.line-chart .line.color-data-17 {
+  stroke: #3E4461;
+}
+
+.line-chart .line.color-data-18 {
+  stroke: #CF4219;
+}
+
+.line-chart .line.color-data-19 {
+  stroke: #5B4013;
+}
+
+.line-chart .line.color-data-20 {
+  stroke: #BD1f44;
+}
+
+.line-chart .linear-gradient stop[stop-color="green"] {
+  stop-color: #329864;
+}
+
+.line-chart .linear-gradient stop[stop-color="yellow"] {
+  stop-color: #a08209;
+}
+
+.line-chart .linear-gradient stop[stop-color="orange"] {
+  stop-color: #d46617;
+}
+
+.line-chart .linear-gradient stop[stop-color="red"] {
+  stop-color: #ed0e00;
+}
+
+.line-chart .linear-gradient stop[stop-color="line"] {
+  stop-color: #242424;
+}
+
+.line-chart .axis.y.zero .tick line {
+  stroke: #242424;
+  stroke-width: 1;
+}
+
+.line-chart .tooltip {
+  fill: #242424;
+}
+
+.line-chart .tooltip .unit {
+  opacity: 0.6;
+}
+
+.line-chart .tooltip .value {
+  margin-left: 8px;
+}
+
+.line-chart .tooltip-line {
+  stroke: #242424;
+  stroke-width: 1px;
+}
+
+.line-chart .tooltip-circle {
+  stroke-width: 3px;
+  fill: #fafafa;
+}
+
+.line-chart .tooltip-x-axis {
+  fill: #242424;
+}
+
+.line-chart .tooltip-x-axis .unit {
+  opacity: 0.7;
+}
+
+.line-chart circle.color-data-1 {
+  stroke: #878787;
+}
+
+.line-chart circle.color-data-2 {
+  stroke: #976CF4;
+}
+
+.line-chart circle.color-data-3 {
+  stroke: #23969A;
+}
+
+.line-chart circle.color-data-4 {
+  stroke: #C86F6D;
+}
+
+.line-chart circle.color-data-5 {
+  stroke: #333333;
+}
+
+.line-chart circle.color-data-6 {
+  stroke: #B98327;
+}
+
+.line-chart circle.color-data-7 {
+  stroke: #8087AD;
+}
+
+.line-chart circle.color-data-8 {
+  stroke: #E75FA0;
+}
+
+.line-chart circle.color-data-9 {
+  stroke: #3E0DA9;
+}
+
+.line-chart circle.color-data-10 {
+  stroke: #9B3213;
+}
+
+.line-chart circle.color-data-11 {
+  stroke: #5B85D0;
+}
+
+.line-chart circle.color-data-12 {
+  stroke: #4D0C2B;
+}
+
+.line-chart circle.color-data-13 {
+  stroke: #D82177;
+}
+
+.line-chart circle.color-data-14 {
+  stroke: #0C3B35;
+}
+
+.line-chart circle.color-data-15 {
+  stroke: #7695B0;
+}
+
+.line-chart circle.color-data-16 {
+  stroke: #74132A;
+}
+
+.line-chart circle.color-data-17 {
+  stroke: #3E4461;
+}
+
+.line-chart circle.color-data-18 {
+  stroke: #CF4219;
+}
+
+.line-chart circle.color-data-19 {
+  stroke: #5B4013;
+}
+
+.line-chart circle.color-data-20 {
+  stroke: #BD1f44;
+}
+
+.tooltip-bottom-box {
+  padding: 8px;
+  background: #dadada;
+  -webkit-box-shadow: 0 2px 4px 0 rgba(12, 12, 12, 0.2);
+  box-shadow: 0 2px 4px 0 rgba(12, 12, 12, 0.2);
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  opacity: 0;
+}
+
+/* END OF LINE CHART STYLING */

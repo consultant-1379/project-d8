@@ -1,0 +1,8 @@
+{
+  "CONTAINER_TITLE": "CI Build Throughput Dashboard",
+  "CONTAINER_TITLE_SHORT": "Throughput Dashboard",
+  "MENU_TITLE": "Menu",
+  "MENU": {
+    "THROUGHPUT_DASHBOARD": "CI Build Throughput Dashboard"
+  }
+}
